@@ -7,6 +7,8 @@ This script automates certain tasks in Microsoft Teams to improve efficiency. Th
 1. **Setup Meeting Automation** – This script helps automate the process of sharing the screen and starting the recording of a Teams meeting without manually clicking multiple times. Users only need to create or join a meeting, and the script will handle the rest.
 2. **Teams Break Automation** – This script simulates a break system in Teams. When executed, it stops the recording and screen share. After the set break duration (default is 15 seconds), the script will automatically open the meeting window, start the recording, and re-enable screen sharing. This script uses `cliclick` to click on the recording button automatically. Detailed setup instructions are provided below.
 
+Note: These scripts have been tested on macOS Sequoia.
+
 ---
 
 ### Prerequisites
@@ -140,6 +142,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to modif
 ### Support
 
 If you find this project useful, consider giving it a ⭐ on GitHub! Your support helps improve and maintain this project.
-
-Happy automating! 🚀
 
