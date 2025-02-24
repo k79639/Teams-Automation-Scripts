@@ -46,7 +46,7 @@ If you want to use these scripts with macOS Shortcuts, you need to grant accessi
 
 ### How to Create Keyboard Shortcuts
 
-1. After extracting the script files, move them to `~/Library/Services/`.
+1. After downloading the script files, move them to `~/Library/Services/`.
 2. Open **System Preferences > Keyboard > Shortcuts > Services**.
 3. Scroll to **General** and locate both script names.
 4. Double-click where "None" is written and assign your desired shortcut.
