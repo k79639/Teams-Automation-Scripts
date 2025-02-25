@@ -39,7 +39,7 @@ This will output the full path, which you will need to update in the script.
 
 If you want to use these scripts with macOS Shortcuts, you need to grant accessibility permissions:
 
-1. Open **System Preferences > Security & Privacy > Accessibility**.
+1. Open **System Settings > Security & Privacy > Accessibility**.
 2. Enable the checkbox for **Automator** and **Microsoft Teams**.
 
 ---
