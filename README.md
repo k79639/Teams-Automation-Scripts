@@ -61,7 +61,7 @@ To make this script work for your specific Teams setup, you need to update the c
 
 1. Open the script by **double-clicking** or by opening **Automator**, selecting **Quick Action**, then **File > Open**.
 2. **Modify the `cliclick` path**:
-   - - To find these lines easily, click the **hammer icon** in Automator before making changes. This will format the script properly.
+   - To find these lines easily, click the **hammer icon** in Automator before making changes. This will format the script properly.
    - Locate this line in the `Setup Meeting Automation` script:
      ```applescript
      do shell script "/opt/homebrew/bin/cliclick c:1080,70"
